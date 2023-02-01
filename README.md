@@ -14,7 +14,9 @@ Below is a walkthrough of my Python program where I analyze fetal health data.
 # Data Analysis Questions
 
 Question 1: Do fetuses whose mothers endure higher uterine contractions have higher abnormal short term variability?
+
 Question 2: Do fetuses with lower baseline heart rates have higher percentage of time with abnormal long term variability?
+
 Question 3 (stretch challenge): Do prolongued decelerations lead to higher infant mortality predictions? 
 
 # Development Environment
