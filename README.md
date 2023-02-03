@@ -13,22 +13,22 @@ Below is a walkthrough of my Python program where I analyze fetal health data.
 
 # Data Analysis Questions & Answers
 
-Question 1: Do fetuses whose mothers endure longer uterine contractions have higher abnormal short term variability? 
-Answer 1: No, actually fetuses have higher abnormal short term variability if their mothers experience shorter uterine contractions.
+* Question 1: Do fetuses whose mothers endure longer uterine contractions have higher abnormal short term variability? 
+* Answer 1: No, actually fetuses have higher abnormal short term variability if their mothers experience shorter uterine contractions.
 
-Question 2: Do fetuses with lower baseline heart rates have higher percentage of time with abnormal long term variability?
-Answer 2: Yes, based on our line graph, we can identify that fetuses with lower baseline heart rates experience higher percentage of time with abnormal long term variability. 
+* Question 2: Do fetuses with lower baseline heart rates have higher percentage of time with abnormal long term variability?
+* Answer 2: Yes, based on our line graph, we can identify that fetuses with lower baseline heart rates experience higher percentage of time with abnormal long term variability. 
 
-Question 3 (stretch challenge): Do fetuses with histograms with more peaks have a higher chance of fetal mortality? 
-Answer 3: Based on our scatter plot results we can see that fetuses with more peaks in their histograms are more commonly diagnosed as having a normal fetal health prediction. 
+* Question 3 (stretch challenge): Do fetuses with histograms with more peaks have a higher chance of fetal mortality? 
+* Answer 3: Based on our scatter plot results we can see that fetuses with more peaks in their histograms are more commonly diagnosed as having a normal fetal health prediction. 
 
 # Development Environment
 
 Visual Studio Code
 
-Python 
-Pandas 
-Matplotlib
+* Python 
+* Pandas 
+* Matplotlib
 
 # Useful Websites
 
