@@ -9,7 +9,7 @@ While I mostly analyze business datasets, I have an interest in clinical informa
 
 Below is a walkthrough of my Python program where I analyze fetal health data. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Ch2VrajD-ww)
 
 # Data Analysis Questions & Answers
 
