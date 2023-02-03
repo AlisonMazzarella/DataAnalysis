@@ -1,35 +1,43 @@
 # DataAnalysis
-Use pandas to analyze data
+Use pandas to analyze a dataset
 
 # Overview
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
+I am analyzing data related to fetal health classification, including markers for predicting the fetuses health. https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
 
-{Describe your purpose for writing this software to analyze the data.}
+While I mostly analyze business datasets, I have an interest in clinical informatics and bioinformatics. I felt this was a good intro to analyzing health datasets. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
+Below is a walkthrough of my Python program where I analyze fetal health data. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
-# Data Analysis Results
+# Data Analysis Questions & Answers
 
-{List the questions and the answers you found by doing this analysis.}
+Question 1: Do fetuses whose mothers endure longer uterine contractions have higher abnormal short term variability? 
+Answer 1: No, actually fetuses have higher abnormal short term variability if their mothers experience shorter uterine contractions.
+
+Question 2: Do fetuses with lower baseline heart rates have higher percentage of time with abnormal long term variability?
+Answer 2: Yes, based on our line graph, we can identify that fetuses with lower baseline heart rates experience higher percentage of time with abnormal long term variability. 
+
+Question 3 (stretch challenge): Do fetuses with histograms with more peaks have a higher chance of fetal mortality? 
+Answer 3: Based on our scatter plot results we can see that fetuses with more peaks in their histograms are more commonly diagnosed as having a normal fetal health prediction. 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio Code
 
-{Describe the programming language that you used and any libraries.}
+Python 
+Pandas 
+Matplotlib
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* W3 Schools - https://www.w3schools.com/python/pandas/pandas_plotting.asp
+* YouTube - https://www.youtube.com/watch?v=vmEHCJofslg&t=1s
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+Some improvements that could be made: 
+* 3D modeling 
+* Combining all files into a single program
+* Graphs that compare more than two criteria
